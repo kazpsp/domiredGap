@@ -2,3 +2,12 @@ a{
    outline: 0;
    -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
+
+#loading-gif{
+	left: 38%;
+	top: 10%;
+	position: absolute;
+}
+.hide{
+	display: none;
+}
