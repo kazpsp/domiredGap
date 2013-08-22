@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.hello-world" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Angular Js</name>
+<widget id="com.phonegap.DomiRed" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>DomiRed</name>
     <description>
-        Angular Js sample application that responds to the deviceready event.
+        Domired app
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
