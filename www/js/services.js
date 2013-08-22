@@ -114,7 +114,7 @@ myApp.factory('notification', function ($rootScope, phonegapReady) {
 myApp.factory('navSvc', function($navigate) {
     return {
         slidePage: function (path,type) {
-            $navigate.go(path,type);
+            $navigate.go(path,'none');
         },
         back: function () {
             $navigate.back();
